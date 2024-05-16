@@ -18,7 +18,7 @@ public class slide23chuong4 {
         }
         int max = arrayListInteger.get(0);
         for( int i=0; i< arrayListInteger.size(); i++ ){
-            if(arrayListInteger.get(i).compareTo(max) > 0);
+            if(arrayListInteger.get(i).compareTo(max) > 0)
             max = arrayListInteger.get(i);
         }
         System.out.println("Phan tu lon nhat trong arrListString la: " + max);

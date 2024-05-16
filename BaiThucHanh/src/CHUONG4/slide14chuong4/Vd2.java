@@ -1,4 +1,4 @@
-package CHUONG 4.slide14chuong4;
+package CHUONG4.slide14chuong4;
 
 import java.util.ArrayList;
 public class Vd1 {
